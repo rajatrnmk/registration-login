@@ -1,0 +1,15 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+    padding-top: 15%;
+}
+input{
+    height: 40px;
+    width: 200px;
+    text-align: center;
+    
+}
+button{
+    height: 20px;
+    width: 60px;
+}
